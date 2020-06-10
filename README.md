@@ -16,6 +16,6 @@ If you have already started the pre-work program that we originally sent you, an
 ## OPTION TWO:
 We have just finished a redesign of our pre-work with the goal to use only free resources wherever possible. That means that a subscription site like TeamTreehouse.com is no longer part of the pre-work (nothing wrong with TeamTreehouse - it has served NSS students well for many years now, but it does cost money). Also, there are many outstanding learning resources available today that were not available when we last redefined our pre-work and we wanted to work some of them into the program. 
 
-To start on our new pre-work program, you can find the link to the first page of the instructions here: https://nashville-software-school.github.io/prework/
+To start on our new pre-work program, you can find the link to the first page of the instructions here: https://nashville-software-school.github.io/web-development-foundations/
 
 The new pre-work is what I would call a beta version, so we will be looking for feedback from all of you taking this path on how we can improve our instructions/content. 
